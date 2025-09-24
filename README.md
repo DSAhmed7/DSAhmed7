@@ -1,3 +1,7 @@
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
+
 # Hi 👋 My Name is Ahmed Abdullah a Data Scientist, Machine Learning & AI Engineer
 - 🎯 **Roles that suit me:** Data Scientist, Machine Learning Engineer, AI Engineer, Data Engineer, Business Intelligence Analyst  
 - 🌱 Constantly learning and applying advanced techniques in **Machine Learning**, **Deep Learning**, **Natural Language Processing**, and **Data Engineering**  
@@ -29,10 +33,11 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" height="48" alt="NumPy" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apacheairflow/apacheairflow-original.svg" height="48" alt="Airflow" />
 
+
 # Connect with Me
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/your-linkedin-username)
-[<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/x.svg" height="40" alt="X" />](https://x.com/your-x-username)
-[![Email](https://skillicons.dev/icons?i=gmail)](mailto:your.email@example.com)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ahmed-abdullah-17822210a)
+[<img src="https://raw.githubusercontent.com/DSAhmed7/DSAhmed7/main/x-logo.png" height="40" alt="X" />](https://x.com/kyv_9?s=21&t=Ri5I06ZjOiFzSh-yCd8snA)
+[![Email](https://skillicons.dev/icons?i=gmail)](mailto:ahmedalenzi010@gmail.com)
 
 # GitHub Stats
 ![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DSAhmed7&show_icons=true&theme=tokyonight)

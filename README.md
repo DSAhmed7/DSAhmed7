@@ -4,10 +4,10 @@
 </div>
 
 # About Me
-- 🎯 **Roles that suit me:** Data Scientist, Machine Learning Engineer, AI Engineer, Data Engineer, Business Intelligence Analyst  
-- 🌱 Constantly learning and applying advanced techniques in **Machine Learning**, **Deep Learning**, **Natural Language Processing**, and **Data Engineering**  
-- 🧩 Skilled in building **data-driven solutions**, optimizing workflows, and applying **statistical analysis** to solve real-world problems  
-- 🔍 Strong knowledge of **data preparation, feature engineering, model deployment, and cloud-based analytics**  
+- 🧑‍💻 **Roles that suit me:** Data Scientist, Machine Learning Engineer, AI Engineer, Data Engineer, Business Intelligence Analyst  
+- 🚀 Constantly learning and applying advanced techniques in **Machine Learning**, **Deep Learning**, **Natural Language Processing**, and **Data Engineering**  
+- 🎖 Skilled in building **data-driven solutions**, optimizing workflows, and applying **statistical analysis** to solve real-world problems  
+- 💻 Strong knowledge of **data preparation, feature engineering, model deployment, and cloud-based analytics**  
 - ⚡ I enjoy exploring new technologies, collaborating on innovative projects, and mentoring others in data science best practices  
 
 # Programming & Tools I ues

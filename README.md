@@ -32,7 +32,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" height="48" alt="Pandas" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" height="48" alt="NumPy" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apacheairflow/apacheairflow-original.svg" height="48" alt="Airflow" />
-
+<img src="https://raw.githubusercontent.com/DSAhmed7/DSAhmed7/main/Power_BI_Logo.png" height="40" alt="X" />
 
 # Connect with Me
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ahmed-abdullah-17822210a)

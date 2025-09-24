@@ -1,8 +1,9 @@
+# Hi 👋 My Name is Ahmed Abdullah a Data Scientist, Machine Learning & AI Engineer
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
-# Hi 👋 My Name is Ahmed Abdullah a Data Scientist, Machine Learning & AI Engineer
+# About Me
 - 🎯 **Roles that suit me:** Data Scientist, Machine Learning Engineer, AI Engineer, Data Engineer, Business Intelligence Analyst  
 - 🌱 Constantly learning and applying advanced techniques in **Machine Learning**, **Deep Learning**, **Natural Language Processing**, and **Data Engineering**  
 - 🧩 Skilled in building **data-driven solutions**, optimizing workflows, and applying **statistical analysis** to solve real-world problems  
